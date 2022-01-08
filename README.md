@@ -1,0 +1,2 @@
+# AMD-EFI-Monterey
+ASUS ROG B350F + AMD R9 3900X + AMD Radeon RX580 + intel AX200 + 0.7.6 macOS12.1
